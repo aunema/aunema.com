@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <h1 class="title">Aunema website</h1>
+    <p>Aunema website is under development. Feel free to contribute!</p>
   </div>
 </template>
 
@@ -19,6 +20,7 @@
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
