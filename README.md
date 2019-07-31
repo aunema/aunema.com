@@ -4,7 +4,7 @@
   <a href="https://cloud.drone.io/aunema/aunema.com"><img src="https://cloud.drone.io/api/badges/aunema/aunema.com/status.svg" alt="Build Status"></a>
 </p>
 
-Aunema website is under development. Feel free to contribute!
+Aunema website is under development. Feel free to contribute! It will be soon.
 
 ## Build Setup
 
